@@ -23,4 +23,5 @@ $ delete-trello-webhook KEY TOKEN WEBHOOK_ID
 Check out my other Trello packages:
 
 - [create-trello-webhook](https://github.com/lukehorvat/create-trello-webhook)
+- [verify-trello-webhook](https://github.com/lukehorvat/verify-trello-webhook)
 - [get-trello-board](https://github.com/lukehorvat/get-trello-board)
