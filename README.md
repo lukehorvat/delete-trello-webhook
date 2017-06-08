@@ -2,6 +2,8 @@
 
 Easily delete a [Trello](https://trello.com) webhook.
 
+(A convenient CLI tool because Trello does not provide a UI for deleting webhooks.)
+
 ## Installation
 
 Install the package with NPM:
